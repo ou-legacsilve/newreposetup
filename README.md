@@ -1,0 +1,2 @@
+# newreposetup
+新しいリポジトリを作成した際のpython開発環境セットアップ
